@@ -1,1 +1,1 @@
-# js.massa
+# js-massa
